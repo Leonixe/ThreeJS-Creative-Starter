@@ -1,0 +1,26 @@
+{
+  "name": "three_project_boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Romain Demongivert <romain.demongivert@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --inline",
+    "build": "webpack -p"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "lodash": "^4.17.4",
+    "node-sass": "^4.5.2",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.1",
+    "three": "^0.84.0",
+    "three-trackballcontrols": "^0.0.5",
+    "tween": "^0.9.0",
+    "webpack": "^2.3.3"
+  }
+}
