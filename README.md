@@ -1,6 +1,7 @@
 # ThreeJS-Creative-Starter
 
-##Description :
+# Description :
+----------
 
 ThreeJs Creative Boilerplate for project and experiment.
 It comes with a `SceneManager` that allows you to control the display of your scene.
@@ -14,15 +15,13 @@ And then start your sceneManager (only one time) :
 
 To understand how the `SceneManager.js` and `Scene.js` works just go to see the doc. :notebook_with_decorative_cover:
 
-##Requirements:
+# Requirements:
 ----------
 
 > **Yarn**
 > **Webpack 2**
 
-##Start Dev Environement:
-
-
+# Start Dev Environement:
 ----------
 To start run :
 
@@ -35,18 +34,15 @@ Go to **localhost:3000*** on your browser.
 
 ***/ ! \ DO NOT place any assets in the build folder !  KEEP THEM in the /src folder. / ! \***
 
-##Build :
-
-
+# Build :
 ----------
 To build your project simply run :
 
     yarn build
 
-##Documentation :
-
-
+# Documentation :
 ----------
+
 You can build a doc with [Esdoc](https://esdoc.org/). To do so just run Esdoc with:
 
     esdoc
