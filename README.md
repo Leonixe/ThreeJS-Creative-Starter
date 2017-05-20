@@ -20,15 +20,7 @@ To understand how the `SceneManager.js` and `Scene.js` works just go to see the 
 > **Yarn**
 > **Webpack 2**
 
-##Running Dev Environement:
-
-
-----------
-
-
-***/ ! \ DO NOT place any assets in the build folder !  KEEP THEM in the /src folder. / ! \***
-
-##Start :
+##Start Dev Environement:
 
 
 ----------
@@ -39,7 +31,9 @@ To start run :
 
 Go to **localhost:3000*** on your browser.
 
-**The dev port is configurable in the package.json*
+**The dev port is configurable in the package.json**
+
+***/ ! \ DO NOT place any assets in the build folder !  KEEP THEM in the /src folder. / ! \***
 
 ##Build :
 
